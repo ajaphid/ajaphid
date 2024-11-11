@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Abigail Amonett
 
-I'm a recent graduate in Information Systems from Carnegie Mellon University, passionate about making useful, accessible, and delightful tech.
+I'm a recent graduate in Information Systems from Carnegie Mellon University, and I'm passionate about making useful, accessible, and delightful tech.
 
 Check out my recent work at [**Dr. Row's 555**](https://dr-rows-555.com/) (a guided meditation app for a healthcare and wellness leader) and [**SiiV**](https://ajaphid.github.io/siiv/) (a custom storefront for a multi-medium artist).
 
