@@ -2,7 +2,7 @@
 
 I'm a recent graduate in Information Systems from Carnegie Mellon University, and I'm passionate about making useful, accessible, and delightful tech.
 
-Check out my recent work at [**Dr. Row's 555**](https://dr-rows-555.com/) (a guided meditation app for a healthcare and wellness leader) and [**SiiV**](https://ajaphid.github.io/siiv/) (a custom storefront for a multi-medium artist).
+Check out my recent work at [**my portfolio**](https://ajaphid.github.io/portfolio/).
 
 ## Let’s Connect!
 If you'd like to connect or talk tech, feel free to reach out: [abigailamonett@gmail.com](mailto:abigailamonett@gmail.com)
